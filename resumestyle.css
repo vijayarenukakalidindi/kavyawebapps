@@ -1,0 +1,52 @@
+.parent{
+  display:flex;
+  width:100%;
+  border:2px solid #ddd;
+}
+.left{
+  width:30%;
+  border:2px solid teal;
+  margin:2%;
+  padding:2%;
+  text-align: center;
+
+
+}
+.right{
+  border:2px solid maroon;
+  width:70%;
+  padding:2%;
+  margin:2%;
+}
+img{
+  border-raidus:50%;
+  width:150px;
+  height:150px;
+}
+hr{
+  background-color: red;
+}
+#co{
+    color:blue;
+
+}
+#para,in{
+  font-size: 20px;
+}
+li{
+  color:BlueViolet;
+}
+
+#in{
+  color:purple;
+  font-size: 20px
+}
+tr{
+  font-style: italic;
+}
+table{
+  background-color: #ddd;
+}
+#ssc{
+  color: magenta;
+}
